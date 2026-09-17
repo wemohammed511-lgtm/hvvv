@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MS Almohtal</string>
+    <string name="welcome_title">MS Almohtal AI</string>
+    <string name="welcome_subtitle">مساعدك الذكي الشخصي - يدعم العمل مع API وبدون إنترنت</string>
+    <string name="mode_online">أونلاين (Cloud API)</string>
+    <string name="mode_offline">أوفلاين (MS Local)</string>
+    <string name="new_chat">محادثة جديدة</string>
+    <string name="api_settings">إعدادات الـ API</string>
+    <string name="input_placeholder">اكتب رسالتك لـ MS Almohtal...</string>
+    <string name="send">إرسال</string>
+    <string name="clear_history">مسح السجل</string>
+</resources>

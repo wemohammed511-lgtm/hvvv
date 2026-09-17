@@ -1,0 +1,7 @@
+{
+  "name": "MS Almohtal",
+  "description": "تطبيق ذكاء اصطناعي تفاعلي متقدم يدعم وضعين: العمل أونلاين عبر API ووضع ذكي أوفلاين بدون إنترنت مع قاعدة بيانات محلية وحفظ المحادثات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
